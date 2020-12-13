@@ -5,7 +5,7 @@ body {
    color: #40514E;
 }
 h1 {
-  font-size: 90px;
+  font-size: 70px;
   margin-top: 50px;
   margin-bottom: 0;
   font-family: 'Dancing Script', cursive;
@@ -37,6 +37,7 @@ hr {
   background-color:  #1dd3bd;
   padding-top: 100px;
   position: relative;
+  
 
 }
 .middle-container {
@@ -144,4 +145,13 @@ hr {
   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
+}
+
+#resume {
+  margin: 0;
+  text-align: left;
+  font-family: 'Merriweather', serif; 
+  color: #40514E;
+  padding-left: 3%; 
+  
 }
