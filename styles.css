@@ -40,7 +40,7 @@ hr {
   background-image: url(https://images.pexels.com/photos/248515/pexels-photo-248515.png?cs=srgb&dl=pexels-pixabay-248515.jpg&fm=jpg);
   padding-bottom: 10%;
   margin-top: 1px;
-  
+
 
 }
 .middle-container {
@@ -153,11 +153,11 @@ hr {
 #resume {
   margin: 0;
   text-align: left;
-  font-family: 'Merriweather', serif; 
+  font-family: 'Merriweather', serif;
   color: #40514E;
-  padding-left: 3%; 
+  padding-left: 3%;
 
-  
+
 }
 
 #line {
@@ -168,3 +168,9 @@ hr {
   margin: 10px auto;
 }
 
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+
+}
